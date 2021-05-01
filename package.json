@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-backpacker-react",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Backpacker's eslint config for React",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/backpacker/eslint-config-react/issues"
   },
   "homepage": "https://github.com/backpacker/eslint-config-react#readme",
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.14.0",
     "@babel/eslint-parser": "^7.13.14",
     "eslint": "^7.25.0",
