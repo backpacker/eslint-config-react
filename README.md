@@ -1,4 +1,4 @@
-# eslint-config-react
+# eslint-config-backpacker-react
 
 [![npm version](https://img.shields.io/npm/v/eslint-config-backpacker-react)](https://www.npmjs.com/package/eslint-config-backpacker-react)
 [![Build](https://github.com/backpacker/eslint-config-react/actions/workflows/build.yml/badge.svg)](https://github.com/backpacker/eslint-config-react/actions?query=workflow%3Abuild)
