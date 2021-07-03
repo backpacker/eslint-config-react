@@ -21,3 +21,15 @@ module.exports = {
   ],
 };
 ```
+
+## Import sort plugin
+
+To automatically sort imports with prettier, use [prettier-plugin-import-sort](https://github.com/ggascoigne/prettier-plugin-import-sort) with [import-sort-style-module](https://www.npmjs.com/package/import-sort-style-module). Then add the following configuration in `package.json`:
+
+```js
+"importSort": {
+    ".js, .jsx, .ts, .tsx": {
+      "style": "module"
+    }
+}
+```
